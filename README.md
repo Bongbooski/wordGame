@@ -5,7 +5,7 @@
  - 라우팅
    - webpack.config.js의 historyApiFallback: true 설정 활용하여, index.ts에서 pathname으로 분기 처리
    - root 페이지: 게임을 진행하는 페이지
-   - /end 페이지: 게임 결과 출력 페이지
+   - end 페이지: 게임 결과 출력 페이지
    - 기타 페이지: 404 처리 페이지
    
 ## 게임화면 처리
