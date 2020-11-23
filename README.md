@@ -1,6 +1,4 @@
-# wordGame
-
-# 해결 전략
+# wordGame 해결 전략
  - hot loading
    - webpack.config.js의 devServer에 hot: true 조건 부여
    
