@@ -1,0 +1,8 @@
+*:focus{outline:none}
+
+#gamePage #leftTime{width:50%;float:left;text-align:center}#gamePage #scoreDiv{width:50%;float:right;text-align:center}#gamePage #requiredWord{text-align:center}#gamePage #typedWord{font-size:20px;display:table;margin-left:auto;margin-right:auto;border:0.5px solid #ccc;border-radius:0.4rem}#gamePage #start{cursor:pointer;width:80px;display:table;margin-top:20px;margin-left:auto;margin-right:auto;border:1px solid transparent;padding:0.375rem 0.75rem;font-size:1rem;line-height:1.5;border-radius:0.25rem}
+
+#endPage{text-align:center}#endPage #completeMessage{margin-top:10%;margin-bottom:20px}#endPage #scoreMessage,#endPage #averageTimeMessage{margin-top:20px;margin-bottom:20px}#endPage #replay{cursor:pointer;width:250px;display:table;margin-top:20px;margin-left:auto;margin-right:auto;border:1px solid transparent;padding:0.375rem 0.75rem;font-size:1rem;line-height:1.5;border-radius:0.25rem}
+
+#errorPage #notExistingPageMessage{margin-top:10%;text-align:center}#errorPage #toGame{cursor:pointer;width:250px;display:table;margin-top:50px;margin-left:auto;margin-right:auto;border:1px solid transparent;padding:0.375rem 0.75rem;font-size:1rem;line-height:1.5;border-radius:0.25rem}
+
